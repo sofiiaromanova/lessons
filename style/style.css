@@ -1,0 +1,15 @@
+body{
+    background-color: gray;
+}
+div img{
+    width: 150px;
+    height: 150px;
+
+    float: left;
+    background: 2px solid white;
+}
+
+div img:hover{
+
+transition-duration: 1s;
+transform: scale(200%); }
