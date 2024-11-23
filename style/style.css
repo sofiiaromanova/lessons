@@ -1,5 +1,5 @@
 body{
-    background-color: gray;
+    background-color: pink;
 }
 div img{
     width: 150px;
@@ -10,7 +10,7 @@ div img{
 
 div img:hover{
 
-transition-duration: 2s;
-transform: scale(200%); 
+transition-duration: 3s;
+transform: scale(300%); 
 
 }
